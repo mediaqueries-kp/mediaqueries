@@ -3,6 +3,7 @@ h1{
     justify-content: center;
     font-family: Arial, Serif;
     font-size: 4em;
+    margin-top: 1px;
 }
 h2{
     color: black;
@@ -30,8 +31,9 @@ li {
     justify-content: center;
     background-color: lightgray;
     padding: 30px;
-    margin: 30px;
-    width: 90%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 95%;
     font-family: Arial, Serif;
     font-weight: bold;
     font-size: 20px;
@@ -49,4 +51,8 @@ li {
 .sub-section {
     font-style: italic;
     padding-bottom: 30px;
+}
+img {
+    width:100vw;
+
 }
